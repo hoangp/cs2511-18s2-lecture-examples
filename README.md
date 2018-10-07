@@ -4,4 +4,4 @@
 - Tutorial Slides: https://bit.ly/cs2511-18s2
 - Videos: https://www.soln.io/course/B1RYiLjNX
 - Tutorial Demo: https://www.github.com/hoangp/cs2511-18s2
-- Head First Design Pattern: https://www.github.com/bethrobson/Head-First-Design-Patterns
+- Head First Design Pattern: https://www.github.com/hoangp/Head-First-Design-Patterns
